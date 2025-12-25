@@ -1,6 +1,6 @@
 # Premier League Analysis
 
-This is an interactive **Premier League Team Analysis** web app built with **Python**, **Streamlit**, **Pandas**, and **Matplotlib**. The app then agitnalyze teams, matches, head-to-head stats, and performance trends with interactive charts and tables.
+This is an interactive **Premier League Team Analysis** web app built with **Python**, **Streamlit**, **Pandas**, and **Matplotlib**. The app then analyze teams, matches, head-to-head stats, and performance trends with interactive charts and tables.
 
 ## Live Demo
 
